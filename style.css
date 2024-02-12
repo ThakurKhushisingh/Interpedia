@@ -1,0 +1,48 @@
+nav{
+    width: max-content;
+    height: max-content;
+    background-color: rgb(138, 115, 106);
+    border-radius: 20px;
+   cursor: pointer; 
+}
+body{      
+display: flex;
+text-align: center;
+justify-content: center;
+background-color:rgb(0, 0, 0);
+}
+
+li{
+ 
+    list-style: none; 
+} 
+button{
+    height: 6em;
+width: 6em;  
+border-radius: 19px;
+margin: 4px;
+}
+
+.btn{
+    background-color: #266dca;
+}
+.btn1{
+    background-color: orangered;
+}
+.input{
+height: 80px;
+width: 310px;
+margin: 10px;
+border-radius: 12px;
+cursor:grab;
+}
+.h1bn{
+padding: 0px;
+margin: 0px;
+height: 30px;
+width: 30px;
+border-radius: 20px;
+}
+.enter{
+background-color: #993b3b;
+}
